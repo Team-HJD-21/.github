@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://teamhjd.com/">
-    <img src="https://raw.githubusercontent.com/Team-HJD-21/.github/main/profile/assets/teamhjd-logo.png" alt="TeamHJD — Happy Journey of Developers" width="240">
-  </a>
-</p>
-
-# TeamHJD
+<a href="https://teamhjd.com/">
+  <img src="https://raw.githubusercontent.com/Team-HJD-21/.github/main/profile/assets/teamhjd-wordmark.png" alt="TeamHJD" width="243" height="49">
+</a>
 
 **Happy Journey of Developers**
 
