@@ -14,7 +14,7 @@ TeamHJD는 게임을 만들고, 개발 과정에서 얻은 경험을 도구와 �
 
 <br>
 
----
+
 
 ## 🎮 THE DEVELOPER
 
@@ -30,7 +30,7 @@ TeamHJD는 게임을 만들고, 개발 과정에서 얻은 경험을 도구와 �
 
 <br>
 
----
+
 
 ## 개발 중 필요한 도구를 직접 만듭니다.
 
@@ -48,7 +48,7 @@ GitHub 관련 소식을 Discord로 전달하고, 소식별 스레드에서 팀�
 
 <br>
 
----
+
 
 ### 🎨 PixelPin
 
@@ -58,7 +58,6 @@ GitHub 관련 소식을 Discord로 전달하고, 소식별 스레드에서 팀�
 
 <br>
 
----
 
 ### 🚀 Game Test Launcher
 
@@ -68,7 +67,7 @@ TeamHJD 자체 게임의 테스트 빌드를 배포하고, 실행 테스트를 �
 
 <br>
 
----
+
 
 ### 📬 겜붕이의 노트
 
@@ -82,7 +81,7 @@ TeamHJD 자체 게임의 테스트 빌드를 배포하고, 실행 테스트를 �
 
 <br>
 
----
+
 
 ### 🔒 Team Documentation
 
@@ -92,7 +91,7 @@ TeamHJD 자체 게임의 테스트 빌드를 배포하고, 실행 테스트를 �
 
 <br>
 
----
+
 
 ## 함께 만드는 사람들
 
@@ -109,8 +108,12 @@ TeamHJD 자체 게임의 테스트 빌드를 배포하고, 실행 테스트를 �
 [support@teamhjd.com](mailto:support@teamhjd.com)
 
 <br>
+<br>
+<br>
+<br>
 
----
 
+
+--- 
 **Happy Journey of Developers.**<br>
 TeamHJD
